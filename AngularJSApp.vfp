@@ -1,0 +1,6 @@
+<body>     
+	<!-- =========== Binding Controller to Body of Page ============= -->
+	<div ng-controller="ctrlRead">
+		<!-- Here you can write you code -->
+	</div>
+</body>
